@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "AI × Psy"
-email: "psyphh@gmail.com"
 description: "Po-Hsien Huang’s Site for Artificial Intelligence and Psychometrics"
 github_username: "psyphh"
 minimal_mistakes_skin: default
@@ -56,7 +55,9 @@ plugins:
 author:
   name   : "Po-Hsien Huang"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Psychometrician at Taiwan"
+  bio    : "Psychometrician"
+  location: "Taipei - Taiwan"
+  email: "psyphh@gmail.com"
   links:
     - label: "Google Scholar"
       url: "https://scholar.google.com.tw/citations?user=fGeJURsAAAAJ"
