@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: true
 ---
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">My name is Po-Hsien Huang (黃柏僩), an Associate Professor in the <a href="https://www.epc.ntnu.edu.tw/">Department of Educational Psychology and Counseling</a> at <a href="https://www.ntnu.edu.tw/">National Taiwan Normal University</a>. I received my Ph.D. degree in psychometrics from <a href="https://www.ntu.edu.tw/">National Taiwan University</a> under the supervision of Dr. <a href="http://www.psy.ntu.edu.tw/index.php/members/faculty/fulltime-faculty/319-weng-li-jen">Li-Jen Weng</a> (翁儷禎) and <a href="http://www.math.ntu.edu.tw/entity_people/entity_people/21456">Hung Chen</a> (陳宏). My research interest is in understanding how to correctly and efficiently apply structural equation modeling (SEM). In particular, I developed a framework for sparse estimation by penalized likelihood. The procedure can be easily conducted in R package <a href="https://cran.r-project.org/package=lslx">lslx</a>. Besides, I also apply both classical psychometric models and modern machine learning techniques for understanding human behaviors.<br></p>
