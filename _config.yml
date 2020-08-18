@@ -55,8 +55,7 @@ plugins:
 author:
   name   : "Po-Hsien Huang"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Psychometrician"
-  location: "Taipei - Taiwan"
+  bio    : "Psychometrician at Taiwan"
   github: "psyphh"
   email: "psyphh@gmail.com"
 
