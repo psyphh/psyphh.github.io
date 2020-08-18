@@ -56,14 +56,12 @@ plugins:
 author:
   name   : "Po-Hsien Huang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Po-Hsien Huang's Site for Artificial Intelligence and Psychometrics"
+  bio    : "Psychometrician at NTNU"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://psyphh.github.io/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/psyphh"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com.tw/citations?user=fGeJURsAAAAJ"
+    - label: "ORCID"
+      url: "https://orcid.org/0000-0002-4820-1245"
 
 footer:
   links:
