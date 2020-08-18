@@ -2,9 +2,9 @@
 title: "第一PO"
 date: 2020-08-18
 categories:
-  - mur2
+  - murmur
 tags:
-  - mur2
+  - murmur
 ---
 
 這是黃柏僩（ㄒㄧㄢˋ）老師的個人網站，我是一名心理計量學者（psychometrician），目前在臺灣師範大學教育心理與輔導學系服務。
