@@ -3,5 +3,7 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
-  - title: "Posts"
+  - title: "Package"
+    url: /package/
+  - title: "Article"
     url: /categories/
