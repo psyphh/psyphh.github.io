@@ -4,7 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
-excerpt: "Po-Hsien Huang’s Site for Artificial Intelligence and Psychometrics"
 ---
 
 This is Po-Hsien Huang's website. I work at [Department of Educational Psychology and Counseling](https://www.epc.ntnu.edu.tw/), NTNU. I am a psychometrician. My main research interest is structural equation modeling and machine learning. I am the author of R package [lslx](https://CRAN.R-project.org/package=lslx). In this site, you can find my academic activities as well as my thoughts on psychology and data science (in Mandarin). Before being a psychometrician, I was a certified clinical psychologist.
