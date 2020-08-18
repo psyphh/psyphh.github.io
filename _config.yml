@@ -58,13 +58,6 @@ author:
   bio    : "Psychometrician"
   location: "Taipei - Taiwan"
   email: "psyphh@gmail.com"
-  links:
-    - label: "Google Scholar"
-      url: "https://scholar.google.com.tw/citations?user=fGeJURsAAAAJ"
-    - label: "ORCID"
-      url: "https://orcid.org/0000-0002-4820-1245"
-    - label: "Publons"
-      url: "https://publons.com/researcher/3839134/po-hsien-huang/" 
 
 footer:
   links:
