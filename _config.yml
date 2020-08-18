@@ -55,13 +55,15 @@ plugins:
 
 author:
   name   : "Po-Hsien Huang"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Psychometrician at NTNU"
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "Psychometrician at Taiwan"
   links:
     - label: "Google Scholar"
       url: "https://scholar.google.com.tw/citations?user=fGeJURsAAAAJ"
     - label: "ORCID"
       url: "https://orcid.org/0000-0002-4820-1245"
+    _ label: "Publons"
+      url: "https://publons.com/researcher/3839134/po-hsien-huang/" 
 
 footer:
   links:

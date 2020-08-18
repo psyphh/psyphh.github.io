@@ -8,7 +8,7 @@ author_profile: true
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>To know more about my background and academic activities, please see my <a href="https://scholar.google.com.tw/citations?user=fGeJURsAAAAJ&amp;hl=zh-TW&amp;authuser=1">Google Scholar</a>, <a href="https://orcid.org/0000-0002-4820-1245">ORCID</a>, or <a href="https://orcid.org/0000-0002-4820-1245">Publons</a>.</p>
+<p>To know more about my background and academic activities, please see my <a href="https://scholar.google.com.tw/citations?user=fGeJURsAAAAJ&amp;hl=zh-TW&amp;authuser=1">Google Scholar</a>, <a href="https://publons.com/researcher/3839134/po-hsien-huang/">ORCID</a>, or <a href="https://orcid.org/0000-0002-4820-1245">Publons</a>.</p>
 <!-- /wp:paragraph -->
 
 
@@ -19,5 +19,5 @@ author_profile: true
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>您可透過我的<a href="https://scholar.google.com.tw/citations?user=fGeJURsAAAAJ&amp;hl=zh-TW&amp;authuser=1">Google Scholar</a>、<a href="https://orcid.org/0000-0002-4820-1245">ORCID</a>、或<a href="https://orcid.org/0000-0002-4820-1245">Publons</a>進一步瞭解我的背景與學術活動。</p>
+<p>您可透過我的<a href="https://scholar.google.com.tw/citations?user=fGeJURsAAAAJ&amp;hl=zh-TW&amp;authuser=1">Google Scholar</a>、<a href="https://orcid.org/0000-0002-4820-1245">ORCID</a>、或<a href="https://publons.com/researcher/3839134/po-hsien-huang/">Publons</a>進一步瞭解我的背景與學術活動。</p>
 <!-- /wp:paragraph -->
