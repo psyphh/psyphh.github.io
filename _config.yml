@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AI × Psy
-email: psyphh@gmail.com
-description: Po-Hsien Huang’s Site for Artificial Intelligence and Psychometrics
-github_username: psyphh
+title: "AI × Psy"
+email: "psyphh@gmail.com"
+description: "Po-Hsien Huang’s Site for Artificial Intelligence and Psychometrics"
+github_username: "psyphh"
 minimal_mistakes_skin: default
 search: true
 
