@@ -5,5 +5,7 @@ main:
     url: /research/
   - title: "Package"
     url: /package/
+  - title: "Lecture Notes"
+    url: /note/
   - title: "Post"
     url: /tags/
