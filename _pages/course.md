@@ -1,6 +1,6 @@
 ---
-permalink: /note/
-title: "講義"
+permalink: /cource/
+title: "課程"
 author_profile: true
 ---
 
