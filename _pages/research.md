@@ -4,16 +4,6 @@ title: "Research"
 author_profile: true
 ---
 
-
-My recent research interest is in understanding how to correctly and efficiently apply structural equation modeling (SEM) for discovering relationships among both observable variables and latent factors. Particular topics include:
-
-1. develop sparse estimation methods via penalized likelihood; 
-2. understand asymptotic and empirical behaviors of model selection procedures;
-3. establish valid statistical inference methods after model selection; 
-4. develop efficient and reliable optimization algorithms for handling big behavioral data. 
-
-Most methods established are available in R package lslx.
-
 **Journal Papers**
 
 + Huang, P.-H. (2020). Post-selection inference in structural equation modeling. _Multivariate Behavioral Research, 55_(3), 344-360. doi: [10.1080/00273171.2019.1634996](https://doi.org/10.1080/00273171.2019.1634996) (JCR 2019 IF = 2.750).
