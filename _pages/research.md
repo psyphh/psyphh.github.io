@@ -4,6 +4,9 @@ title: "Research"
 author_profile: true
 ---
 
+My current research interest is in developing quantitative methods from both psychomatric and machine learning perspective. Before that, my research is in understanding how to correctly and efficiently apply structural equation modeling (SEM) for discovering relationships among both observable variables and latent factors. 
+
+
 **Journal Papers**
 
 + Huang, P.-H. (2020). Post-selection inference in structural equation modeling. _Multivariate Behavioral Research, 55_(3), 344-360. doi: [10.1080/00273171.2019.1634996](https://doi.org/10.1080/00273171.2019.1634996) (JCR 2019 IF = 2.750).
