@@ -2,11 +2,10 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: "Welcome to AI × Psy"
 layout: single
 author_profile: true
 ---
-
-# Welcome to AI × Psy
 
 This is Po-Hsien Huang's website. I work at [Department of Educational Psychology and Counseling](https://www.epc.ntnu.edu.tw/), NTNU. I am a psychometrician. My main research interest is structural equation modeling and machine learning. I am the author of R package [lslx](https://CRAN.R-project.org/package=lslx). Before being a psychometrician, I was a certified clinical psychologist. In this site, you can find my academic activities as well as my thoughts on data science, artificial intelligence, and psychometrics (in Mandarin).
 
