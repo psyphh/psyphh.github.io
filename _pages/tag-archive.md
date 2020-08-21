@@ -1,5 +1,5 @@
 ---
-title: "Posts by Tag"
+title: "文章"
 permalink: /tags/
 layout: tags
 author_profile: true
