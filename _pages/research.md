@@ -9,6 +9,8 @@ My current research interest is in developing quantitative methods from both psy
 
 **Journal Papers**
 
++ Huang, P.-H. (in press). Penalized least squares for structural equation modeling with ordinal responses. _Multivariate Behavioral Research_ (JCR 2019 IF = 2.750).
+
 + Huang, P.-H. (2020). Post-selection inference in structural equation modeling. _Multivariate Behavioral Research, 55_(3), 344-360. doi: [10.1080/00273171.2019.1634996](https://doi.org/10.1080/00273171.2019.1634996) (JCR 2019 IF = 2.750).
 
 + Huang, P.-H. (2020). lslx: Semi-confirmatory structural equation modeling via penalized likelihood. _Journal of Statistical Software, 93_(7), 1-37. doi: [10.18637/jss.v093.i07](https://doi.org/10.18637/jss.v093.i07) (JCR 2019 IF = 13.642).
