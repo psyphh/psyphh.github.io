@@ -5,7 +5,3 @@ main:
     url: /research/
   - title: "Package"
     url: /package/
-  - title: "課程"
-    url: /course/
-  - title: "文章"
-    url: /tags/
